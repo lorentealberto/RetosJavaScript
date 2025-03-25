@@ -1,0 +1,25 @@
+{
+  "name": "retosjavascript",
+  "version": "1.0.0",
+  "main": "01-fizzbuzz.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorentealberto/RetosJavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lorentealberto/RetosJavaScript/issues"
+  },
+  "homepage": "https://github.com/lorentealberto/RetosJavaScript#readme",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.23.0",
+    "eslint": "^9.23.0",
+    "globals": "^16.0.0"
+  }
+}
