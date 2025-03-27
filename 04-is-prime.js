@@ -3,15 +3,11 @@
  * Hecho esto, imprime los números primos entre 1 y 100.
  */
 
-
 function isPrime(n) {
-    for (let i = 2; i < n - 1; i++)
-        if (n % i == 0)
-            return false
-    return true
+  for (let i = 2; i < n - 1; i++) if (n % i == 0) return false;
+  return true;
 }
 
+n = 4;
 
-n = 4
-
-console.log(`¿Es el número ${n} primo?`, isPrime(n))
+console.log(`¿Es el número ${n} primo?`, isPrime(n));

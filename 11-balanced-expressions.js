@@ -44,3 +44,6 @@ function isBalanced(_expression) {
   }
   return result;
 }
+
+
+console.log('test')
